@@ -105,3 +105,11 @@ footer {
     text-align: center;
     line-height: 20px;
 }
+
+@media (max-width: 500px){
+    .digital,
+    .data,
+    .localizacao{
+        font-size: 30px;
+    } 
+}
